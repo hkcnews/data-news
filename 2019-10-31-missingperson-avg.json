@@ -1,5 +1,5 @@
 {
-	"Timeframe": ["2019 July", "5 Years Avg"],
-	"Youth" : ["9", "1.52"],
-	"Elderly" :["1.52", 4.75]
+	"XAxis": ["Youth", "Elderly"],
+	"2019 July" : ["9", "6"],
+	"5 Years Avg" :["1.52", "4.75"]
 }
